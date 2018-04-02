@@ -49,9 +49,8 @@ app.get('/contacts', (req, res) => {
 		conb: '022 424364191',
 		conc: '022 424364192',
 		cond: '022 424364193'
-	});
-});
-
+	}) ;
+}) ;
 
 
 // /bad - send back json with errorMessage
