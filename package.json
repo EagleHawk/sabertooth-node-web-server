@@ -1,17 +1,25 @@
 {
-  "name": "web-server",
-  "version": "1.0.0",
+  "name": "test-app",
+  "version": "1.0.1",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "",
+  "author": "Devendra Walanj",
   "license": "ISC",
   "dependencies": {
     "express": "^4.14.0",
     "hbs": "^4.0.0"
   },
   "devDependencies": {},
-  "description": ""
+  "description": "A testing application on GitHub and Heroku",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EagleHawk/sabertooth-node-web-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EagleHawk/sabertooth-node-web-server/issues"
+  },
+  "homepage": "https://github.com/EagleHawk/sabertooth-node-web-server#readme"
 }
